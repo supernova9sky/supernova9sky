@@ -3,11 +3,9 @@
 
 - I’m currently learning **windows kernel and a bit of regex**
 
-- 💬 Ask me about **c++, windows kernel, gamehacking**
+- Ask me about **c++, windows kernel, gamehacking**
 
 - Reach me on discord **d3dx11**
-
-- Fun fact **sad fact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

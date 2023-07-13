@@ -1,11 +1,7 @@
 <h1 align="center">Hi, I'm supernova9sky or $_9</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supernova9sky&label=Profile%20views&color=0e75b6&style=flat" alt="supernova9sky" /> </p>
 
-- I’m currently learning **windows kernel and a bit of regex**
-
-- Ask me about **c++, windows kernel, gamehacking**
-
-- Reach me on discord **d3dx11**
+- Reach out to me on discord **exallocatepool**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
